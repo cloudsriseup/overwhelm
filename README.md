@@ -18,6 +18,7 @@ So what is so special about Vanquish compared to other enumeration scripts?
 ## Getting Started
 
 Vanquish can be run on Docker using the following commands:
+  
     $ mkdir -p /tmp/sharedfolder
 
     $ echo 10.60.0.1 >> /tmp/sharedfolder/hosts.txt
