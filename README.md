@@ -1,10 +1,10 @@
 # Vanquish – Get to Shell
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frizb/Vanquish/master/Vanquish.png" title="Vanquish - Kali Linux Enumeration Orchestrator"/>
+  <img src="https://raw.githubusercontent.com/cloudsriseup/overwhelm/master/Vanquish.png" title="Overwhelm's Vanquish - Kali Linux Enumeration Orchestrator"/>
 </p>
 
-Vanquish is a Kali Linux based Enumeration Orchestrator built in Python running inside a docker container.  Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases. The results of each phase are fed into the next phase to identify vulnerabilities that could be leveraged for a remote shell.  
+Overwhelm's Vanquish is a Kali Linux based Enumeration Orchestrator built in Python running inside a docker container.  Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases. The results of each phase are fed into the next phase to identify vulnerabilities that could be leveraged for a remote shell.  
 
 ## Vanquish Features
 So what is so special about Vanquish compared to other enumeration scripts?
